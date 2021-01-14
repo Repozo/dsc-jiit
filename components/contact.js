@@ -180,6 +180,22 @@ class Contact extends Component {
                     alt="img"
                   />
                 </a>
+                <a href="https://www.instagram.com/dscjiit/">
+                  <img
+                    src="assets/img/instagram.png"
+                    width="35px"
+                    height="35px"
+                    alt="img"
+                  />
+                </a>
+                <a href="https://www.youtube.com/channel/UCMqzTZkzwdDOuTzYbSZY8jw">
+                  <img
+                    src="assets/img/youtube.png"
+                    width="35px"
+                    height="35px"
+                    alt="img"
+                  />
+                </a>
                 <a href="https://twitter.com/gdg_jiit_noida?lang=en">
                   <img
                     src="assets/img/twitter.png"
@@ -188,24 +204,7 @@ class Contact extends Component {
                     alt="img"
                   />
                 </a>
-
-                <a href="https://www.youtube.com/channel/UCMqzTZkzwdDOuTzYbSZY8jw">
-                  <img
-                      src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1610527578~hmac=83090f38b233ab27a3b0a01ff9c05f79"
-                      width="35px"
-                      height="35px"
-                      alt="img"
-                      />
-                </a>
-                <a href="https://www.instagram.com/dscjiit/">
-                  <img
-                    src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1610527935~hmac=a46d880eab6d6bdb533f8bd86bda0216"
-                    width="35px"
-                    height="35px"
-                    alt="img"
-
-                  />
-                </a>
+             
               </div>
             </div>
           </div>

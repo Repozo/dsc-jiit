@@ -177,6 +177,15 @@ export default function Navbar() {
               <ListItemText primary="Team" />
             </ListItem>
           </Link>
+          <Link
+            href="/video"
+            color="secondary"
+            style={{ textDecoration: "none" }}
+          >
+            <ListItem button onClick={handleDrawerClose}>
+              <ListItemText primary="Videos" />
+            </ListItem>
+          </Link>
           <a href="#contact" style={{ textDecoration: "none", color: "teal" }}>
             <ListItem button onClick={handleDrawerClose}>
               <ListItemText primary="Contact" />
