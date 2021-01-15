@@ -155,10 +155,16 @@ export default function Navbar() {
             </ListItem>
           </Link>
           <a href="#about" style={{ textDecoration: "none", color: "teal" }}>
+            <Link
+                href="/#about"
+                color="secondary"
+                style={{ textDecoration: "none" }}
+            >
             <ListItem button onClick={handleDrawerClose}>
               <ListItemText primary="About" />
             </ListItem>
           </a>
+        </Link>
           <Link
             href="/events"
             color="secondary"
